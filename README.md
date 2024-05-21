@@ -20,22 +20,18 @@
 
 <p align="left">I also run an <a href="https://rogercodes.blog" target="_blank">online blog</a>, as well as a <a href="https://youtube.com/@rogercodes" target="_blank">youtube channel</a> where i share all things related to programming and IT.</p>
 
-> [My Online Portfolio](https://rogercodes.blog/)
-> 
-> [My Blog](https://rogercodes.blog/)
->
-> [My Youtube Channel](https://youtube.com/@rogercodes)
-
 ###
 
 <h2 align="left">You can find me here</h2>
 
 ###
+[![Email](https://img.shields.io/badge/rogelioherreradev@gmail.com-Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rogelioherreradev@gmail.com)
+</br>
 [![Web](https://img.shields.io/badge/Web-RogerCodes.Blog-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://rogercodes.blog)
 [![Web](https://img.shields.io/badge/Web-RogelioHerrera.Dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://rogelioherrera.dev)
 </br>
 [![YouTube](https://img.shields.io/badge/YouTube-Roger_Codes-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@rogercodes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rogelio_Herrera?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rogelio-herrera-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rogelio_Herrera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rogelio-herrera-dev)
 </br>
 
 
