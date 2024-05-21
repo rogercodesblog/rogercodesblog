@@ -31,8 +31,8 @@
 <h2 align="left">You can find me here</h2>
 
 ###
-[![Web](https://img.shields.io/badge/Web-RogerCodes.Blog?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://rogercodes.blog)
-[![Web](https://img.shields.io/badge/Web-RogelioHerrera.Dev?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://rogelioherrera.dev/)
+[![Web](https://img.shields.io/badge/Web-RogerCodes.Blog-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://rogercodes.blog)
+[![Web](https://img.shields.io/badge/Web-RogelioHerrera.Dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://rogelioherrera.dev)
 </br>
 [![YouTube](https://img.shields.io/badge/YouTube-Roger_Codes-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@rogercodes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rogelio_Herrera?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rogelio-herrera-dev)
