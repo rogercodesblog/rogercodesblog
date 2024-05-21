@@ -32,10 +32,9 @@
 
 ###
 
-<div align="center">
-  [![YouTube](https://img.shields.io/badge/YouTube-Roger_Codes-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@rogercodes)
+[![YouTube](https://img.shields.io/badge/YouTube-Roger_Codes-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@rogercodes)
 </br>
-</div>
+
 
 ###
 
