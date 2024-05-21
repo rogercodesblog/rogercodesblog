@@ -18,11 +18,13 @@
 
 ###
 
-<p align="left">I also run an online blog, as well as a youtube channel where i share all things related to programming and it.</p>
+<p align="left">I also run an <a href="https://rogercodes.blog">online blog</a>, as well as a <a href="https://youtube.com/@rogercodes">youtube channel</a> where i share all things related to programming and IT.</p>
 
 > [My Online Portfolio](https://rogercodes.blog/)
 > 
 > [My Blog](https://rogercodes.blog/)
+>
+> [My Youtube Channel](https://youtube.com/@rogercodes)
 
 ###
 
