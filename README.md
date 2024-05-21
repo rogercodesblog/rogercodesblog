@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm not a robot 🤖, I'm Rogelio but everyone calls me Roger for short.</p>
+<p align="left">I'm not a robot 🤖, I'm Rogelio but everyone calls me Roger.</p>
 
 ###
 
