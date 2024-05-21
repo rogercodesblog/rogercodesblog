@@ -4,6 +4,7 @@
 
 <h3 align="left">Fullstack Web Developer</h3>
 
+![https://github.com/rogercodesblog](./Banner.jpg)
 ###
 
 <h2 align="left">About</h2>
