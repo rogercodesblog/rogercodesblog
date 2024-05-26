@@ -31,13 +31,13 @@
 [![Web: My Blog](https://img.shields.io/badge/Web-RogerCodes.Blog-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://rogercodes.blog)
 [![Web: Online Portfolio](https://img.shields.io/badge/Web-RogelioHerrera.Dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://rogelioherrera.dev)
 </br>
-[![YouTube](https://img.shields.io/badge/YouTube-Roger_Codes-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@rogercodes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rogelio_Herrera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rogelio-herrera-dev)
+[![YouTube](https://img.shields.io/badge/YouTube-@RogerCodesBlog-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@rogercodesblog)
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@rogercodesblog-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/rogercodesblog)
 [![Instagram](https://img.shields.io/badge/Instagram-@rogercodesblog-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/rogercodesblog)
 </br>
-[![Twitch](https://img.shields.io/badge/Twitch-rogercodes-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/rogercodesblog)
+[![Twitch](https://img.shields.io/badge/Twitch-rogercodesblog-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/rogercodesblog)
 [![TikTok](https://img.shields.io/badge/TikTok-@rogercodesblog-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@rogercodesblog)
 
 
