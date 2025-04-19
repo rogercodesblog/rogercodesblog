@@ -36,10 +36,6 @@
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@rogercodesblog-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/rogercodesblog)
 [![Instagram](https://img.shields.io/badge/Instagram-@rogercodesblog-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/rogercodesblog)
-</br>
-[![Twitch](https://img.shields.io/badge/Twitch-rogercodesblog-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/rogercodesblog)
-[![TikTok](https://img.shields.io/badge/TikTok-@rogercodesblog-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@rogercodesblog)
-
 
 ###
 
